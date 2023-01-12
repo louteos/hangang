@@ -1,0 +1,129 @@
+{
+    "NaviDB": [
+        { "subject": "한강달빛야시장", "href": "#introduce" },
+        { "subject": "창업인큐베이팅", "href": "#incubating" },
+        { "subject": "미디어", "href": "#media" },
+        { "subject": "야시장소식", "href": "#notice" }
+    ],
+    
+    "historyDB": [
+        {
+            "years": "2015",
+            "textKr": [
+                "여의도한강공원 1개소 야시장 시범운영",
+                "푸드트럭 & 셀러 총 120팀 참가",
+                "2015년 방문객 수 약 20만 명"
+            ],
+            "textEn": [
+                "One trial run of the night market held in Yeouido Hangang Park",
+                "120 participating teams (food trucks, sellers, etc.)",
+                "Number of visitors: approx. 200,000"
+            ]
+        },
+        {
+            "years": "2016",
+            "textKr": [
+                "서울형 야시장 상설운영 시작",
+                "여의도한강공원, DDP, 목동운동장, 청계광장 4개소 야시장 개장",
+                "푸드트럭 & 셀러 총 332팀 참가",
+                "2016년 방문객 수 약 330만 명",
+                "2016년 외국인이 뽑은 서울시 정책 1위"
+            ],
+            "textEn": [
+                "Permanent Seoul-based night market entered operation",
+                "Night market held in four venues (Yeouido Hangang Park, DDP, Mokdong Stadium, and Cheonggye Plaza)",
+                "332 participating teams (food trucks, sellers, etc.)",
+                "Number of visitors: approx. 3.3 million",
+                "Seoul Metropolitan Government policy voted as most popular among foreigners in Korea in 2016"
+            ]
+        },
+        {
+            "years": "2017",
+            "textKr": [
+                "서울형 야시장 서울 전역 확대 운영",
+                "여의도한강공원, 반포한강공원, DDP, 청계천, 청계광장 5개소 야시장 개장, 문화비축기지 시범운영",
+                "푸드트럭 & 셀러 총 505팀 참가",
+                "2017년 방문객 수 약 500만 명",
+                "2017년 SNS에서 사랑 받은 서울 사계절 축제 1위",
+                "2017년 시민이 뽑은 서울시 10대 뉴스 선정"
+            ],
+            "textEn": [
+                "Night markets began operating in all areas of Seoul",
+                "Night market held in six venues (Yeouido Hangang Park, Banpo Hangang Park, DDP, Cheonggyecheon Stream, Cheonggye Plaza, and Oil Tank Culture Park)",
+                "505 participating teams (food trucks, sellers, etc.)",
+                "Number of visitors: approx. 5 million",
+                "Selected as Seoul’s most popular seasonal festival for 2017",
+                "Selected by Seoul residents as one of Seoul’s top 10 attractions for 2017"
+            ]
+        },
+        {
+            "years": "2018",
+            "textKr": [
+                "여의도한강공원, 반포한강공원, DDP, 청계천, 청계광장, 문화비축기지 6개소 야시장 개장",
+                "서울시 정책브랜드(네이밍 및 디자인 분야) 평가 1위 선정",
+                "“내 삶을 바꾼 2018 서울시 10대 뉴스” 4위",
+                "외국인이 뽑은 서울시 정책 1위"
+            ],
+            "textEn": [
+                "Night market held in six locations (Yeouido Hangang Park, Banpo Hangang Park, DDP, Cheonggyecheon, Cheonggye Plaza, and Oil Tank Culture Park)",
+                "Given highest score in assessment of Seoul Metropolitan Government’s policy brands (naming and design category)",
+                "Ranked fourth among “Top 10 News Stories about Seoul Metropolitan Government that Changed My Life”",
+                "Selected as most popular policy of Seoul Metropolitan Government by foreigners"
+            ]
+        },
+        {
+            "years": "2019",
+            "textKr": [
+                "여의도한강공원, 반포한강공원, DDP, 청계천, 문화비축기지, 서울크리스마스마켓 6개소 야시장 개장",
+                "푸드트럭 & 일반상인 총 463팀 참가",
+                "2019년 방문객 수 약 423만 명",
+                "“우리를 든든하게 한 2019 서울시 10대 뉴스” 10위",
+                "외국인에게 추천하고 싶은 축제 1위"
+            ],
+            "textEn": [
+                "Opened six night markets (Yeouido Hangang Park, Banpo Hangang Park, DDP, Cheonggyecheon Stream, Oil Tank Culture Park, and Seoul Christmas Market)",
+                "Total of 463 participating food trucks & merchants",
+                "Approx. 4.23 million night market visitors in 2019",
+                "Ranked 10th on Seoul’s ranking of top 10 news in 2019",
+                "Ranked 1st as a must-visit festival for international tourists"
+            ]
+        },
+        {
+            "years": "2020",
+            "textKr": [
+                "온라인 개장-일반상인 ‘아이디어스’ 입점 지원 및 기획전 진행",
+                "야시장에서도 거리두기 캠페인 계획 수립"
+            ],
+            "textEn": [
+                "Launched the Seoul Bamdokkaebi Night Market website",
+                "Held special events and assisted small businesses to open their online store on idus.com",
+                "Established a plan for Seoul Bamdokkaebi Night Market’s social distancing campaign"
+            ]
+        },
+        {
+            "years": "2021",
+            "textKr": [
+                "DDP 방역형 야시장 기획 및 방역관리 체계 수립",
+                "권역별 찾아가는 음료차 : 25개 자치구 소재 임시선별진료소 54개소 순회 방문",
+                "찾아가는 서울밤도깨비야시장 상생 도시락 : 서울시 소재 구호기관 45개소 등에 푸드트럭 참여상인 조리 음식 제공",
+                "서울밤도깨비야시장 크리스마스 마켓 DDP 개장"
+            ],
+            "textEn": [
+                "Seoul Bamdokkaebi Night Market 2021 will be held in observance of disease prevention and control measures to offer a much-needed morale boost for small businesses and startups who are experiencing significant hardship due to the COVID-19 pandemic.\n Many efforts have been made to ensure that all night market locations are safe and hygienic with enforced social distancing, mandatory masks, temperature checks, digital visitor logs, etc.\n Visitors are invited to participate in this year’s safe and disease-free night market!"
+            ]
+        },
+        {
+            "years": "2022",
+            "textKr": [
+                "한강 달빛 야시장 반포한강공원 개장 예정",
+                "찾아가는 야시장 : 서울 시립병원 의료진방문, 음료 제공",
+                "찾아가는 야시장 : 제56향토보병사단 방문, 음료 및 음식 제공"
+            ],
+            "textEn": [
+                "Hangang Moonlight Market at Banpo Hangang Park starting soon",
+                "Night Market on Wheels: Beverages provided to medical personnel of the Seoul Metropolitan Hospital",
+                "Night Market on Wheels: Beverages and food provided to 56th Homeland Defense Infantry Division, ROK Army"
+            ]
+        }
+    ]
+}
